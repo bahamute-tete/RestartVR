@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9408314dc68492e42b1558962d72236e, type: 3}
+  m_Name: Show Box Assets
+  m_EditorClassIdentifier: 
+  showBoxes:
+  - ItemID: 10001
+    contentItem: {fileID: 5540944265671495167, guid: 24904165c33b65a4b9650028ad37efb9,
+      type: 3}
+    boxLightColor: {r: 0.9811321, g: 0.9811321, b: 0.9811321, a: 0.8862745}
+    ItemName: "\u5730\u57571\u53F7"
+    ItemPrice: 198
+  - ItemID: 10002
+    contentItem: {fileID: 3997573007254769782, guid: 754bb72994d0e6242951203b286fa5f3,
+      type: 3}
+    boxLightColor: {r: 0.504717, g: 0.89366806, b: 1, a: 0.9843137}
+    ItemName: "\u5730\u57572\u53F7"
+    ItemPrice: 64
+  - ItemID: 10003
+    contentItem: {fileID: 3032766289999110294, guid: 9b05a21803da28d4abff5435fa216a9a,
+      type: 3}
+    boxLightColor: {r: 1, g: 0.62080497, b: 0.0990566, a: 1}
+    ItemName: "\u5730\u57573\u53F7"
+    ItemPrice: 648
+  - ItemID: 10004
+    contentItem: {fileID: 3156441603445995227, guid: f90184bcf37de3c46b2a9f9ef8bfb69c,
+      type: 3}
+    boxLightColor: {r: 0.36320752, g: 1, b: 0.51118755, a: 1}
+    ItemName: "\u5730\u57574\u53F7"
+    ItemPrice: 648

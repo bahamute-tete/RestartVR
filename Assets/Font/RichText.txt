@@ -1,0 +1,22 @@
+<color=yellow>< /color> 颜色处理
+<alpha=#FF>< /alpha> 修改文本的透明度，十六进制
+<indent=15%>< /indent>缩进，可以用像素、百分比、字体单位，缩进会一直存在，直到遇到结束标签
+<line-indent=15%> 单行缩进
+< b>< /b> 加粗
+< i>< /i> 斜体
+< u>< /u> 加下划线
+< s>< /s> 加删除线
+< sup>< /sup> 上移
+< sub>< /sub>下移
+<mark=#ffff8000>< /mark> 加高亮 //注意必须是16进制，且是RGBA，A决定透明度
+< allcaps>< /allcaps> 所有大写
+< smallcaps></ smallcaps> 将大写字母弄小一点
+<cspace=0.3em>< /cspace> 字符间距
+<line-height=75>< /line-height> 行高
+< nobr>< /nobr> 没有换行
+< size><size=1.5em>< /size> 调整字体大小
+<align=center>< /align> 对齐方式
+<style=H1>< /style> 调整风格（H1，H2,H3)
+< margin left=15%>< margin right=15%>< /margin> 标签，它定义了一行或一段文本的左右边距。
+< noparse>< /noparse> 禁用富文本标签
+<sprite=11>可以在字体中插入图片，但前提 需要弄一个字体Sprit，
