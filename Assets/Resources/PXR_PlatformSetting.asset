@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   entitlementCheckSimulation: 1
   startTimeEntitlementCheck: 1
-  appID: dbfa286abcc3a6d91bde6507b2c7824f
+  appID: d507c66db64575baf5c3566f25840bd1
   deviceSN:
   - PA8110MGG9150519G
   - PA8110MGG9240552G
