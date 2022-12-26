@@ -72,3 +72,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 Assets/StreamingAssets/AVProVideoSamples/20221201-182657.mp4
 *.log
+.DS_Store
